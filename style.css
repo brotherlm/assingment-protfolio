@@ -1,0 +1,60 @@
+h1{
+   display: flex; 
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: largers;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: small;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: largers;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50% );
+    font-size: x-large;
+    color: white;
+    top: 20%;
+}
+
+.pragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+    color: white;
+    
+
+}
+
+
+
+
+
